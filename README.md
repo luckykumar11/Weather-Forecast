@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecast Application
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/cd96debb-9e0d-4bb7-b3c8-59cc83ea5b08" /># 🌦️ Weather Forecast Application
 
 A simple and interactive weather forecast web application built with **HTML, CSS, and JavaScript**, using the **OpenWeather API** to fetch real-time weather data.  
 
@@ -22,7 +22,10 @@ A simple and interactive weather forecast web application built with **HTML, CSS
 ---
 
 ## 📸 Screenshots
-(Add screenshots of your project UI here)  
+
+<img width="1919" height="946" alt="Screenshot 2025-09-09 173339" src="https://github.com/user-attachments/assets/da3d04e9-0c53-4370-9959-3671791f411f" />
+
+
 Example:  
 ![Weather Forecast Screenshot](screenshot.png)  
 
